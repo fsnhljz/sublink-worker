@@ -40,8 +40,9 @@ Sublink Worker 是一个可部署在 Cloudflare Worker 上轻量级的订阅转�
 
 ## 最近更新
 
-- 2024-09-09
-  - ([#23](https://github.com/7Sageer/sublink-worker/issues/23)) 修复了Github规则无效的问题
+- 2024-09-10
+  - ([#25](https://github.com/7Sageer/sublink-worker/issues/25)) 修复了Base64无法转换多个HTTP链接的问题
+  - 现在为生成的链接提供二维码
 
 [查看更新日志](/doc/update-log.md)
 
